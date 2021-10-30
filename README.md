@@ -9,7 +9,7 @@
 > If you are here, you probably already know what you're looking for
 
 - Email or DM me if you wish to access private code repositories
-- Most things here are W.I.P so don't expect too much
+- Most things here are W.I.P/Dead so don't expect too much
 
 
 ## What I am working on
@@ -20,4 +20,3 @@
 
 ## Contact me 
 Email: kitjohn796@gmail.com <br>
-Discord: BIGOOF#5982
