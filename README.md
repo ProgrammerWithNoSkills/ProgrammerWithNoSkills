@@ -4,7 +4,7 @@
 
 [![ProgrammerWithNoSkills' GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerWithNoSkills&show_icons=true&theme=radical&count_private=true)](https://github.com/ProgrammerWithNoSkills/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerWithNoSkills&show_icons=true&theme=radical&count_private=true)](https://github.com/ProgrammerWithNoSkills/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerWithNoSkills&show_icons=true&theme=radical&count_private=true&hide=ShaderLab,HLSL)](https://github.com/ProgrammerWithNoSkills/github-readme-stats)
 
 > If you are here, you probably already know what you're looking for
 
