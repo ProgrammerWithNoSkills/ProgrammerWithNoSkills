@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**ProgrammerWithNoSkills/ProgrammerWithNoSkills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-Here are some ideas to get you started:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerWithNoSkills&show_icons=true&theme=radical)](https://github.com/ProgrammerWithNoSkills/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> If you are here, you probably already know what you're looking for
+
+- Email or DM me if you wish to access private code repositories
+- Most things here are W.I.P so don't expect too much
+
+
+## What I am working on
+- Working on Insanity Siege
+- Figuring out how to set up Docker and K8
+- Trying to get my CCNP
+- Building a portfolio website for a friend of mine
+
+## Contact me 
+Email: kitjohn796@gmail.com <br>
+Discord: BIGOOF#5982
