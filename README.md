@@ -13,7 +13,7 @@
 
 
 ## What I am working on
-- Working on Insanity Siege
+- Working on Insanity Siege, an upcoming game.
 - Figuring out how to set up Docker and K8
 - Trying to get my CCNP
 - Building a portfolio website for a friend of mine
