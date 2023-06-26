@@ -13,10 +13,10 @@
 
 
 ## What I am working on
-- Learning how to do computer vision
-- Figuring out how to set up Docker and K8
+- Creating company websites
+- Doing MIT OpenCourseWare
 - Trying to get my CCNP
-- Building a portfolio website for a friend of mine
+- Learning about Machine Learning
 
 ## Contact me 
 Email: kitjohn796@gmail.com <br>
