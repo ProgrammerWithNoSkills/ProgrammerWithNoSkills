@@ -19,4 +19,4 @@
 - Learning about Machine Learning
 
 ## Contact me 
-Email: kitjohn796@gmail.com <br>
+Email: johncodestoolittle@gmail.com <br>
