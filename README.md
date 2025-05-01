@@ -13,10 +13,10 @@
 
 
 ## What I am working on
-- Creating company websites
-- Doing MIT OpenCourseWare
-- Trying to get my CCNP
-- Learning about Machine Learning
+- Modding Stardew Valley
+- Cheesing CS papers
+- Learning how to not blow up circuits
+- Managing my server
 
 ## Contact me 
 Email: johncodestoolittle@gmail.com <br>
